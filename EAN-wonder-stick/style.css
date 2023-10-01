@@ -23,7 +23,7 @@ body {
 }
 #es-nyx.es-nyx .es-kv {
   min-height: 450px;
-  background-image: url(../images/kv-bg.webp);
+  background-image: url(./images/kv-bg.webp);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -109,7 +109,7 @@ body {
   position: relative;
 }
 #es-nyx.es-nyx .es-info__listItem::before {
-  content: url(../images/tick.webp);
+  content: url(./images/tick.webp);
   position: absolute;
   left: -50px;
 }
@@ -151,7 +151,7 @@ body {
   animation: pulse 2s infinite ease-in-out;
 }
 #es-nyx.es-nyx .es-shades__label-group::before {
-  content: url(../images/arrow-down.webp);
+  content: url(./images/arrow-down.webp);
   position: absolute;
   left: -74px;
   bottom: -55px;
@@ -376,7 +376,7 @@ body {
     position: relative;
   }
   #es-nyx.es-nyx .es-info__listItem::before {
-    content: url(../images/tick.webp);
+    content: url(./images/tick.webp);
     position: absolute;
     left: -50px;
     top: 50%;
@@ -394,7 +394,7 @@ body {
   #es-nyx.es-nyx .es-cross {
     padding: 20px;
     padding-bottom: 50px;
-    background: #03d6cd url('../images/cross-bg.webp') no-repeat center center;
+    background: #03d6cd url('./images/cross-bg.webp') no-repeat center center;
     background-size: cover;
   }
   #es-nyx.es-nyx .es-cross__title-img {
